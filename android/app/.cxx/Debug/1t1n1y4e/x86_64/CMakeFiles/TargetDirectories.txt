@@ -1,0 +1,2 @@
+D:/Desktop/PFEapp/code_hire/android/app/.cxx/Debug/1t1n1y4e/x86_64/CMakeFiles/edit_cache.dir
+D:/Desktop/PFEapp/code_hire/android/app/.cxx/Debug/1t1n1y4e/x86_64/CMakeFiles/rebuild_cache.dir

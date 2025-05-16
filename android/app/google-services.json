@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "917288115624",
+    "project_id": "codehireapp",
+    "storage_bucket": "codehireapp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:917288115624:android:56c4dc442d6b3ba52e519d",
+        "android_client_info": {
+          "package_name": "com.example.code_hire"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHJXo3U5PUAnODhEwlvWeq8aj5gui62HE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

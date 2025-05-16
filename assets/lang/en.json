@@ -1,0 +1,33 @@
+{
+  "sign_in": "Sign in",
+  "email": "Email",
+  "password": "Password",
+  "remember_me": "Remember me",
+  "forgot_password": "Forgot password?",
+  "not_member": "Not yet a member? ",
+  "sign_up_now": "Sign up Now",
+  "sign_up": "Sign up",
+  "full_name": "Full name",
+  "phone_number": "Phone number",
+  "confirm_password": "Confirm password",
+  "validation_email": "Please enter your email",
+  "validation_password": "Please enter your password",
+  "validation_full_name": "Please enter your full name",
+  "validation_phone": "Please enter your phone number",
+  "validation_password_length": "Password must be at least 6 characters",
+  "validation_password_match": "Passwords do not match",
+  "profile": "My Profile",
+  "personal_info": "Personal Information",
+  
+  
+  "phone": "Phone",
+  "about_me": "About Me",
+  "edit": "Edit",
+  "cancel": "Cancel",
+  "save": "Save",
+  "my_skills": "My Skills",
+  "no_user_data": "No user data found",
+  "about_updated": "About updated successfully",
+  "update_failed": "Failed to update about",
+  "load_profile_failed": "Failed to load profile"
+}

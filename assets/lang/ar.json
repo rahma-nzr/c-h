@@ -1,0 +1,41 @@
+{
+  "app_name": "كود هاير",
+  "email": "البريد الإلكتروني",
+  "password": "كلمة المرور",
+  "sign_in": "تسجيل الدخول",
+  "forgot_password": "نسيت كلمة المرور؟",
+  "not_member": "ليس لديك حساب؟ سجل الآن",
+  "sign_up": "إنشاء حساب",
+  "full_name": "الاسم الكامل",
+  "phone_number": "رقم الهاتف",
+  "confirm_password": "تأكيد كلمة المرور",
+  "skills": "المهارات",
+  "about_yourself": "معلومات عنك",
+  "notifications": "الإشعارات",
+  "messages": "الرسائل",
+  "search": "بحث",
+  "home": "الرئيسية",
+  "profile": "الملف الشخصي",
+  "settings": "الإعدادات",
+  "help_support": "مساعدة ودعم",
+  "about_app": "حول التطبيق",
+  "contract": "العقد",
+  "approve_contract": "الموافقة على العقد",
+  "success_register": "تم تسجيلك بنجاح في كود هاير",
+  
+  
+  "personal_info": "المعلومات الشخصية",
+ 
+  "phone": "الهاتف",
+  "about_me": "معلومات عني",
+  "edit": "تعديل",
+  "cancel": "إلغاء",
+  "save": "حفظ",
+  "my_skills": "مهاراتي",
+  "no_user_data": "لا توجد بيانات للمستخدم",
+  "about_updated": "تم تحديث المعلومات بنجاح",
+  "update_failed": "فشل تحديث المعلومات",
+  "load_profile_failed": "فشل تحميل الملف الشخصي"
+
+}
+
